@@ -6,5 +6,9 @@ public class samplegit {
 		System.out.println("hello");
 
 	}
+	public static void run()
+	{
+		
+	}
 
 }
